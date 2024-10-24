@@ -24,6 +24,21 @@ it can provide a solution:
 * help user discover the fraud risk of different information such as platform, event, and other action.
 * send fraud alret when discover potential risk of fraud based on user life record (the record will be provided or collected from user).
 
+## Frauds example
+Example and some tips:
+* https://youtu.be/Mj7JTt7dM80
+### Phishing websites
+* set up a fraudulent website with the same style as the genuine website and install a malware into the fraudulent website to obtain the login information of the targets or members of the target organisation
+### Phishing emails
+* send emails with attachments of hidden malicious programs or fraudulent website links to infect the target computer network
+### online investment fraud
+Through online social media platform, forums or instant messengers, fraudsters promote investments with low risks and high returns and attract netizens to invest.  However, most of the investment plans do not exist or are filled with traps.  Some fraudsters falsify transaction records that appears to be gaining profits, luring victims into investing more money.  Eventually, fraudsters can no longer be reached.
+### Credit Card Fraud
+Once credit card information including card number, expiry date and CVC falls into the hands of criminals, your credit card information may be misappropriated and you may suffer loss.
+
+## Research
+
+
 ## Key features
 1. Analyze the fraud's risk of information 
 2. Generate fraud alert to the user when they are using the service
