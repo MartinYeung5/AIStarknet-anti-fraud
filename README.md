@@ -80,7 +80,7 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 ## Project structure
 1. Starknet
 1.1. smart contract
-* using account abstraction
+* using account abstraction (Can provide the fraud monitoring)
 2. Web frontend
 3. AI
 3.1. using Gemini to preform the analysis process of fraud risk. 
