@@ -31,7 +31,7 @@ Example and some tips for prevention (3 mins video):
 * Set up a fraudulent website with the same style as the genuine website and install a malware into the fraudulent website to obtain the login information of the targets or members of the target organisation
 ### Phishing emails
 * Send emails with attachments of hidden malicious programs or fraudulent website links to infect the target computer network
-### online investment fraud
+### Online investment fraud
 * Through online social media platform, forums or instant messengers, fraudsters promote investments with low risks and high returns and attract netizens to invest.  However, most of the investment plans do not exist or are filled with traps.  Some fraudsters falsify transaction records that appears to be gaining profits, luring victims into investing more money.  Eventually, fraudsters can no longer be reached.
 ### Credit Card Fraud
 * Once credit card information including card number, expiry date and CVC falls into the hands of criminals, your credit card information may be misappropriated and you may suffer loss.
