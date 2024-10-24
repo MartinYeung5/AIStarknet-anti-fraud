@@ -56,9 +56,16 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 4. E-shopping fraud
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_5.png?raw=true)
 
-Email scam
-Theft of online account
+5. Credit card misuse
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_6.png?raw=true)
 
+6. Email scam
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_7.png?raw=true)
+
+7. Theft of online account
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_8.png?raw=true)
+
+\
 ## Key features
 1. Analyze the fraud's risk of information 
 2. Generate fraud alert to the user when they are using the service
