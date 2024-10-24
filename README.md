@@ -44,8 +44,8 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 
 ## Research
 1. Technology Crime Figures
-![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data2.png?raw=true)
-![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data3.png?raw=true)
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_2.png?raw=true)
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_3.png?raw=true)
 
 ## Key features
 1. Analyze the fraud's risk of information 
