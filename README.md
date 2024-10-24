@@ -25,7 +25,7 @@ it can provide a solution:
 * send fraud alret when discover potential risk of fraud based on user life record (the record will be provided or collected from user).
 
 ## Frauds example
-Example and some tips for prevention:
+Example and some tips for prevention (3 mins video):
 * https://youtu.be/Mj7JTt7dM80
 ### Phishing websites
 * Set up a fraudulent website with the same style as the genuine website and install a malware into the fraudulent website to obtain the login information of the targets or members of the target organisation
