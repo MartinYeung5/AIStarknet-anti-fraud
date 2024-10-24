@@ -1,5 +1,8 @@
 # AIStarknet-anti-fraud
 
+## Image
+![alt text](https://github.com/MartinYeung5/starknet/blob/main/MartinYeung5/AIStarknet-anti-fraud_banner.png?raw=true)
+
 ## About this project
 Nowadays, we are facing different frauds in our life. Especially in the rapid changing generation, 
 we may use different online applications such as online shopping, gaming, online services, 
