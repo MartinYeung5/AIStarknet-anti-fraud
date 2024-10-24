@@ -44,6 +44,3 @@ it can provide a solution:
 ## What's next for
 1. Tool/plugin for web3 wallet
 * It aims to help user can use our serveic anywhere
-
-2. Tool/plugin for web browser
-* It aims to help user can use our serveic anywhere
