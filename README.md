@@ -21,13 +21,26 @@ it can provide a solution:
 * help user discover the fraud risk of different information such as platform, event, and other action.
 * send fraud alret when discover potential risk of fraud based on user life record (the record will be provided or collected from user).
 
-## Challenges I ran into
+## Key features
 1. Analyze the fraud's risk of information 
 2. Generate fraud alert to the user when they are using the service
-3. Provide more support on your daily life not only on Web3, but also in offline society.
+3. Report the fraud case when they encountered
+4. Provide more support on your daily life not only on Web3, but also in offline society
 
-## How we built it
+## What is the product
+1. web platform
+* user can check the fraud risk by specific data input including email address, link, web3 wallet address, phone number and so on.
+* user can import their life data inlcuidng phone number list, email address list, schedule data for checking.
+* user can report the fraud case
 
-## What we learned
+## Project structure
+1. Smart contract
+2. Web frontend
+3. AI
 
 ## What's next for
+1. Tool/plugin for web3 wallet
+* It aims to help user can use our serveic anywhere
+
+2. Tool/plugin for web browser
+* It aims to help user can use our serveic anywhere
