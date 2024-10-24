@@ -47,6 +47,18 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_2.png?raw=true)
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_3.png?raw=true)
 
+2. Online Investment Fraud
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_1.png?raw=true)
+
+3. Phishing Scam
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_4.png?raw=true)
+
+4. E-shopping fraud
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_5.png?raw=true)
+
+Email scam
+Theft of online account
+
 ## Key features
 1. Analyze the fraud's risk of information 
 2. Generate fraud alert to the user when they are using the service
