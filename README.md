@@ -81,6 +81,7 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 1. Smart contract
 2. Web frontend
 3. AI
+* using Gemini to preform the analysis process of fraud risk. 
 
 ## What's next for
 1. Tool/plugin for web3 wallet
