@@ -43,7 +43,9 @@ Example and some tips for prevention:
 In daily life, we may have risk to encounter various frauds. However, most of the protection may not care your life's risk. Those software/platform/tool may just tell you general risk and can't tell you about the risk in your real life. Furthermore, different cities may have various popular frauds or specific frauds based on the local culture/lifestyle/goverment policies. Therefore, it is important to develop an application to protect your benefit more effectively.
 
 ## Research
-
+1. Technology Crime Figures
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data2.png?raw=true)
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data3.png?raw=true)
 
 ## Key features
 1. Analyze the fraud's risk of information 
