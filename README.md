@@ -36,6 +36,8 @@ Through online social media platform, forums or instant messengers, fraudsters p
 ### Credit Card Fraud
 Once credit card information including card number, expiry date and CVC falls into the hands of criminals, your credit card information may be misappropriated and you may suffer loss.
 
+* Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
+
 ## Research
 
 
