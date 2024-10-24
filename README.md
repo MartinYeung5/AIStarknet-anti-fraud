@@ -28,15 +28,19 @@ it can provide a solution:
 Example and some tips for prevention:
 * https://youtu.be/Mj7JTt7dM80
 ### Phishing websites
-* set up a fraudulent website with the same style as the genuine website and install a malware into the fraudulent website to obtain the login information of the targets or members of the target organisation
+* Set up a fraudulent website with the same style as the genuine website and install a malware into the fraudulent website to obtain the login information of the targets or members of the target organisation
 ### Phishing emails
-* send emails with attachments of hidden malicious programs or fraudulent website links to infect the target computer network
+* Send emails with attachments of hidden malicious programs or fraudulent website links to infect the target computer network
 ### online investment fraud
-Through online social media platform, forums or instant messengers, fraudsters promote investments with low risks and high returns and attract netizens to invest.  However, most of the investment plans do not exist or are filled with traps.  Some fraudsters falsify transaction records that appears to be gaining profits, luring victims into investing more money.  Eventually, fraudsters can no longer be reached.
+* Through online social media platform, forums or instant messengers, fraudsters promote investments with low risks and high returns and attract netizens to invest.  However, most of the investment plans do not exist or are filled with traps.  Some fraudsters falsify transaction records that appears to be gaining profits, luring victims into investing more money.  Eventually, fraudsters can no longer be reached.
 ### Credit Card Fraud
-Once credit card information including card number, expiry date and CVC falls into the hands of criminals, your credit card information may be misappropriated and you may suffer loss.
+* Once credit card information including card number, expiry date and CVC falls into the hands of criminals, your credit card information may be misappropriated and you may suffer loss.
 
 * Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
+
+## Target market
+### Hong Kong
+In daily life, we may have risk to encounter various frauds. However, most of the protection may not care your life's risk. Those software/platform/tool may just tell you general risk and can't tell you about the risk in your real life. Furthermore, different cities may have various popular frauds or specific frauds based on the local culture/lifestyle/goverment policies. Therefore, it is important to develop an application to protect your benefit more effectively.
 
 ## Research
 
