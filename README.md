@@ -65,7 +65,6 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 7. Theft of online account
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_8.png?raw=true)
 
-\
 ## Key features
 1. Analyze the fraud's risk of information 
 2. Generate fraud alert to the user when they are using the service
