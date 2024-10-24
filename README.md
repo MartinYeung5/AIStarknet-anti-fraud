@@ -78,10 +78,12 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 * user can report the fraud case
 
 ## Project structure
-1. Smart contract
+1. Starknet
+1.1. smart contract
+* account abstraction
 2. Web frontend
 3. AI
-* using Gemini to preform the analysis process of fraud risk. 
+3.1. using Gemini to preform the analysis process of fraud risk. 
 
 ## What's next for
 1. Tool/plugin for web3 wallet
