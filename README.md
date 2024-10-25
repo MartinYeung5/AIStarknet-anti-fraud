@@ -42,6 +42,9 @@ it will be risked. when someone downloads the fake web3 application, they may su
 The request may include diffrent actions which can get your asset or gain more access rights and so on.
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241025_1.jpg?raw=true)
 
+### Identity Fraud
+* AI is a double-edged sword, it can explore the dual role of artificial intelligence in reshaping fraud prevention and providing new opportunities for fraudsters.
+
 #### Summary
 Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
 
