@@ -44,7 +44,7 @@ The request may include diffrent actions which can get your asset or gain more a
 
 ### Identity Fraud
 * AI is a double-edged sword, it can explore the dual role of artificial intelligence in reshaping fraud prevention and providing new opportunities for fraudsters.
-![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241025_2.jpg?raw=true)
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241025_2.png?raw=true)
 
 #### Summary
 Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
