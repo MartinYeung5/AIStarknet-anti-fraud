@@ -72,6 +72,12 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 7. Theft of online account
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_8.png?raw=true)
 
+### Fraud statistic (Hong Kong only)
+A total of 19 897 cases of fraud were registered in the first half of 2024, an increase of 1 154 cases (+6.2%) compared with the same period last year (18 743 cases), of which 62.3% were Internet-related. Fraud cases accounted for 43.9% of the total number of crimes and the amount involved was $4.48 billion (+1.79 billion, +66.5%). The loss incurred from investment fraud was $1.55 billion, accounting for 34.5% of the total amount involved.
+
+* reference: Hong Kong Government
+https://www.info.gov.hk/gia/general/202408/10/P2024081000273.htm?fontSize=1
+
 ## Current applications (competitors)
 According to the reserach, lots of "similar" applications in the market. However, they may focus on different specific market or pain points. such as only focus on web3 world, email section, web link. you can image if you want to get better protection, you may need to download lots of useful applications. Also you may need to learn how to use and may need to pay the extra fee. However, for the general user, they may only a few applications and don't want to spend so much time on checking/learning. Moreover, they may care more about the protection on their daily life. Therefore, most of the applications may not fit into their needs.
 
