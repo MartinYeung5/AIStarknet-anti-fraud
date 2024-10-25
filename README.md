@@ -68,6 +68,9 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 7. Theft of online account
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/data_8.png?raw=true)
 
+## Current applications (competitors)
+According to the reserach, lots of "similar" applications in the market. However, they may focus on different specific market or pain points. such as only focus on web3 world, email section, web link. you can image if you want to get better protection, you may need to download lots of useful applications. Also you may need to learn how to use and may need to pay the extra fee. However, for the general user, they may only a few applications and don't want to spend so much time on checking/learning. Moreover, they may care more about the protection on their daily life. Therefore, most of the applications may not fit into their needs.
+
 ## Key features
 1. Analyze the fraud's risk of information 
 2. Generate fraud alert to the user when they are using the service
