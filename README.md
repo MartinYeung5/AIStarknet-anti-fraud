@@ -47,6 +47,8 @@ The request may include diffrent actions which can get your asset or gain more a
 
 #### Summary
 Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241025_2.jpg?raw=true)
+
 
 ## Target market
 ### Hong Kong
