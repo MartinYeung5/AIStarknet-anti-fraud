@@ -87,6 +87,7 @@ According to the reserach, lots of "similar" applications in the market. However
 2. Generate fraud alert to the user when they are using the service
 3. Report the fraud case when they encountered
 4. Provide more support on your daily life not only on Web3, but also in offline society
+5. Collect the fraud report from different organizations and platforms and social media groups (such as facebook group, TG group, forum group) by AI 
 
 ## What is the product
 1. web platform

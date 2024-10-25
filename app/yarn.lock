@@ -1401,7 +1401,7 @@
   resolved "https://registry.npmjs.org/@sinclair/typebox/-/typebox-0.25.24.tgz"
   integrity sha512-XJfwUVUKDHF5ugKwIcxEgc9k8b7HbznCp6eUfWgu710hMPNIO4aw4/zB5RogDQz8nd6gyCDpU9O/m6qYEWY6yQ==
 
-"@ss-2/nextjs@file:c:\\Users\\yeung\\Downloads\\starknet_20240916\\20241024_hackathon_AIStarknet-anti-fraud\\app\\packages\\nextjs":
+"@ss-2/nextjs@file:", "@ss-2/nextjs@file:c:\\Users\\yeung\\Downloads\\starknet_20240916\\20241024_hackathon_AIStarknet-anti-fraud\\app\\packages\\nextjs":
   version "0.1.2"
   resolved "file:packages/nextjs"
   dependencies:
@@ -1430,7 +1430,7 @@
     usehooks-ts "^2.13.0"
     zustand "^4.1.2"
 
-"@ss-2/snfoundry@file:c:\\Users\\yeung\\Downloads\\starknet_20240916\\20241024_hackathon_AIStarknet-anti-fraud\\app\\packages\\snfoundry":
+"@ss-2/snfoundry@file:", "@ss-2/snfoundry@file:c:\\Users\\yeung\\Downloads\\starknet_20240916\\20241024_hackathon_AIStarknet-anti-fraud\\app\\packages\\snfoundry":
   version "0.0.1"
   resolved "file:packages/snfoundry"
   dependencies:
