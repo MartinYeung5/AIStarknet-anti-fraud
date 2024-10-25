@@ -43,7 +43,7 @@ The request may include diffrent actions which can get your asset or gain more a
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241025_1.jpg?raw=true)
 
 ### Identity Fraud
-* AI is a double-edged sword, it can explore the dual role of artificial intelligence in reshaping fraud prevention and providing new opportunities for fraudsters.
+* AI is a double-edged sword, it can explore the dual role of artificial intelligence in reshaping fraud prevention and providing new opportunities for fraudsters. Deepfake fraud are growing at an unprecedented rate year-on-year, with China recording a 28 times increase, South Korea approximately 16.3 times (1625%), Turkey approximately 15.3 times (1533%), Singapore 11 times, and Hong Kong 10 times.
 ![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241025_2.png?raw=true)
 
 #### Summary
