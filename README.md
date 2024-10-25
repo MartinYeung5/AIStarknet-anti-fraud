@@ -36,10 +36,10 @@ Example and some tips for prevention (3 mins video):
 ### Credit Card Fraud
 * Once credit card information including card number, expiry date and CVC falls into the hands of criminals, your credit card information may be misappropriated and you may suffer loss.
 ### Web3 Fraud
-1. Fake application
-* it will be risked. when someone downloads the fake web3 application, they may suffer from the high risk of fraud.
+1. Fake application: 
+it will be risked. when someone downloads the fake web3 application, they may suffer from the high risk of fraud.
 
-Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
+* Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
 
 ## Target market
 ### Hong Kong
