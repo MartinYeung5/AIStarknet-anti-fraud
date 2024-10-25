@@ -75,7 +75,8 @@ In daily life, we may have risk to encounter various frauds. However, most of th
 ### Fraud statistic (Hong Kong only)
 A total of 19 897 cases of fraud were registered in the first half of 2024, an increase of 1 154 cases (+6.2%) compared with the same period last year (18 743 cases), of which 62.3% were Internet-related. Fraud cases accounted for 43.9% of the total number of crimes and the amount involved was $4.48 billion (+1.79 billion, +66.5%). The loss incurred from investment fraud was $1.55 billion, accounting for 34.5% of the total amount involved.
 
-* reference: Hong Kong Government
+#### reference: 
+1. Hong Kong Government
 * https://www.info.gov.hk/gia/general/202408/10/P2024081000273.htm?fontSize=1
 
 ## Current applications (competitors)
