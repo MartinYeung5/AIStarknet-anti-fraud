@@ -27,14 +27,16 @@ it can provide a solution:
 ## Frauds example
 Example and some tips for prevention (3 mins video):
 * https://youtu.be/Mj7JTt7dM80
-### Phishing websites
+### Phishing Websites
 * Set up a fraudulent website with the same style as the genuine website and install a malware into the fraudulent website to obtain the login information of the targets or members of the target organisation
-### Phishing emails
+### Phishing Emails
 * Send emails with attachments of hidden malicious programs or fraudulent website links to infect the target computer network
-### Online investment fraud
+### Online investment Fraud
 * Through online social media platform, forums or instant messengers, fraudsters promote investments with low risks and high returns and attract netizens to invest.  However, most of the investment plans do not exist or are filled with traps.  Some fraudsters falsify transaction records that appears to be gaining profits, luring victims into investing more money.  Eventually, fraudsters can no longer be reached.
 ### Credit Card Fraud
 * Once credit card information including card number, expiry date and CVC falls into the hands of criminals, your credit card information may be misappropriated and you may suffer loss.
+### Web3 Fraud
+* fake application will be risked. when someone downloads the fake web3 application, they may suffer from the high risk of fraud.
 
 * Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
 
