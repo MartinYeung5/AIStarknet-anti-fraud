@@ -88,7 +88,7 @@ The report from TransUnion found that 6.6% of all digital transactions where the
 1. Hong Kong Government (2024)
 * https://www.info.gov.hk/gia/general/202408/10/P2024081000273.htm?fontSize=1
 2. TransUnion (2024)
-https://newsroom.transunion.hk/transunion-report-finds-suspected-digital-fraud-rate-in-hong-kong-significantly-higher-than-other-global-markets/
+* https://newsroom.transunion.hk/transunion-report-finds-suspected-digital-fraud-rate-in-hong-kong-significantly-higher-than-other-global-markets/
 ## Current applications (competitors)
 According to the reserach, lots of "similar" applications in the market. However, they may focus on different specific market or pain points. such as only focus on web3 world, email section, web link. you can image if you want to get better protection, you may need to download lots of useful applications. Also you may need to learn how to use and may need to pay the extra fee. However, for the general user, they may only a few applications and don't want to spend so much time on checking/learning. Moreover, they may care more about the protection on their daily life. Therefore, most of the applications may not fit into their needs.
 
