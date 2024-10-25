@@ -84,7 +84,7 @@ A total of 19 897 cases of fraud were registered in the first half of 2024, an i
 
 The report from TransUnion found that 6.6% of all digital transactions where the consumer was in Hong Kong were suspected to be Digital Fraud in 2023. This number is 32% higher than the global suspected Digital Fraud rate of 5% over the same time period.
 
-#### reference: 
+#### Reference: 
 1. Hong Kong Government (2024)
 * https://www.info.gov.hk/gia/general/202408/10/P2024081000273.htm?fontSize=1
 2. TransUnion (2024)
