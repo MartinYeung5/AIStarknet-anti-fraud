@@ -103,11 +103,11 @@ According to the reserach, lots of "similar" applications in the market. However
 * user can report the fraud case
 
 ## Project structure
-1. Starknet
+### 1. Starknet
 * 1.1. smart contract
 * using account abstraction (Can provide the fraud monitoring)
-2. Web frontend
-3. AI
+### 2. Web frontend
+### 3. AI
 * 3.1. using Gemini to preform the analysis process of fraud risk. 
 
 ## What's next for
