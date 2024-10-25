@@ -38,6 +38,9 @@ Example and some tips for prevention (3 mins video):
 ### Web3 Fraud
 1. Fake application: 
 it will be risked. when someone downloads the fake web3 application, they may suffer from the high risk of fraud.
+2. Complicated transaction request
+The request may include diffrent actions whuch can get your asset or gain more access rights and so on.
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241025_1.jpg?raw=true)
 
 #### Summary
 Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
