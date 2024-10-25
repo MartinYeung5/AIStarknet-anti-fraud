@@ -102,11 +102,11 @@ According to the reserach, lots of "similar" applications in the market. However
 
 ## Project structure
 1. Starknet
-1.1. smart contract
+* 1.1. smart contract
 * using account abstraction (Can provide the fraud monitoring)
 2. Web frontend
 3. AI
-3.1. using Gemini to preform the analysis process of fraud risk. 
+* 3.1. using Gemini to preform the analysis process of fraud risk. 
 
 ## What's next for
 1. Tool/plugin for web3 wallet
