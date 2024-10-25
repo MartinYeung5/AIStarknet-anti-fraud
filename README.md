@@ -39,7 +39,8 @@ Example and some tips for prevention (3 mins video):
 1. Fake application: 
 it will be risked. when someone downloads the fake web3 application, they may suffer from the high risk of fraud.
 
-* Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
+#### Summary
+Actually, it still has different types of fraud. Therefore, we may need to pay more attention to prevent these frauds.
 
 ## Target market
 ### Hong Kong
