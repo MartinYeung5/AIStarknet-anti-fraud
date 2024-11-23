@@ -111,8 +111,18 @@ According to the reserach, lots of "similar" applications in the market. However
 * 1.1. smart contract
 * using account abstraction (Can provide the fraud monitoring)
 ### 2. Web frontend
+* 2.1. main page design - including basic information of project
+* 2.2. user dashboard - after user login, user can do different actions in dashboard
+* 2.3. whole process of audit contract  
+* 2.4. audit report (security analysis)
 ### 3. AI
-* 3.1. using Gemini to preform the analysis process of fraud risk. 
+* 3.1. using Gemini to preform the analysis process of fraud risk: 
+* "contract audit" is developed (using gemini)
+* user can submit their contract, then system will analyze the contract and generate the audit report in order to let user to know what is the risk and risk level of the contract. Therefore, it can protect user benefit.
+### 4. function development
+* user login (google login)
+* audit contract function
+* subscription fee function (payment by credit card)
 
 ## What's next for
 1. Tool/plugin for web3 wallet
