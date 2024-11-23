@@ -117,6 +117,9 @@ According to the reserach, lots of "similar" applications in the market. However
 * 2.4. audit report (security analysis)
 ### 3. AI
 * 3.1. using Gemini to preform the analysis process of fraud risk: 
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241123_1.png?raw=true)
+![alt text](https://github.com/MartinYeung5/AIStarknet-anti-fraud/blob/main/images/20241123_2.png?raw=true)
+
 * "contract audit" is developed (using gemini)
 * user can submit their contract, then system will analyze the contract and generate the audit report in order to let user to know what is the risk and risk level of the contract. Therefore, it can protect user benefit.
 ### 4. function development
