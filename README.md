@@ -130,3 +130,5 @@ According to the reserach, lots of "similar" applications in the market. However
 ## What's next for
 1. Tool/plugin for web3 wallet
 * It aims to help user can use our serveic anywhere
+
+
